@@ -1,4 +1,4 @@
-# Metis: Fast Automatic Distributed Training on Heterogeneous GPUs
+# Metis: Fast Automatic Distributed Training on Heterogeneous GPUs (forked from https://github.com/SamsungLabs/Metis/tree/main)
 
 [cc-by-nc]: https://creativecommons.org/licenses/by-nc/4.0/
 [cc-by-nc-image]: https://i.creativecommons.org/l/by-nc/4.0/88x31.png
